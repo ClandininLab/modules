@@ -1,0 +1,6 @@
+prepend_path("PATH","/home/groups/trc/opt/cmtk/bin")
+whatis("Name:        cmtk")
+whatis("Version:     3.3.1")
+whatis("Category:    computational biology, Imaging")
+whatis("URL:         https://github.com/ClandininLab/modules")
+whatis("Description: computational morphology toolkit")
